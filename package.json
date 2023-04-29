@@ -1,0 +1,19 @@
+{
+  "main": "index.tsx",
+  "dependencies": {
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "antd-mobile": "5.29.1",
+    "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "lorem-ipsum": "^2.0.8",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "devDependencies": {
+    "typescript": "^3"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
